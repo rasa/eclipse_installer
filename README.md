@@ -1,6 +1,6 @@
 # eclipse_installer
 
-eclipse_installer lets you download and install Eclipse and several of the most
+eclipse_installer downloads and installs Eclipse and several of the most
 popular plugins available at http://eclipse.org, as well as the following
 third party plugins:
 
